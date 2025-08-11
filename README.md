@@ -40,7 +40,7 @@ HeartSight/
 📦 Installation & Usage
 
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR-USERNAME/HeartSight.git
+git clone https://github.com/sowmiyajagdeesh/HeartSight.git
 cd HeartSight
 
 2️⃣ Install Dependencies
@@ -51,7 +51,7 @@ streamlit run app.py
 
 4️⃣ Open in Browser
 Streamlit will automatically open your default browser at:
-http://localhost:8501
+http://192.168.0.9:8501
 
 📊 Model Performance
 Algorithm	Accuracy
