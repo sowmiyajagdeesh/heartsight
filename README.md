@@ -51,7 +51,7 @@ streamlit run app.py
 
 4️⃣ Open in Browser
 Streamlit will automatically open your default browser at:
-http://192.168.0.9:8501
+http://localhost:8501
 
 📊 Model Performance
 Algorithm	Accuracy
